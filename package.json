@@ -1,0 +1,14 @@
+{
+  "name": "roundto5cents",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vanya Andreychuk <vandreychuk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
